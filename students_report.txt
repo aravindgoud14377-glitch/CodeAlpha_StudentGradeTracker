@@ -1,0 +1,16 @@
+===== STUDENT REPORT =====
+
+Name: E Aravind Kumar Goud
+Marks: 99
+Grade: A
+------------------
+Name: Satish
+Marks: 95
+Grade: A
+------------------
+
+Total Students: 2
+Total Marks: 194
+Average: 97.00
+Highest: 99
+Lowest: 95
